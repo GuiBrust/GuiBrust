@@ -21,7 +21,6 @@
 </p>
   
 <br>  
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=GuiBrust&theme=github-dark&area=true&hide_border=true&custom_title=GuiBrust's%20Contribution%20Graph">
 <div align="center">
 <br><p align="centre"><b>Total Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuiBrust}/count.svg" /></p> 
